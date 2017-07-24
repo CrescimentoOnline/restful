@@ -1,0 +1,7 @@
+{
+  "extends": "4catalyzer-react",
+  "env": {
+    "browser": true
+  },
+  "semi": "never"
+}
